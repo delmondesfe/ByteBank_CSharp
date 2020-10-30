@@ -1,0 +1,7 @@
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Felipe Delmondes\source\repos\POO_02\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
