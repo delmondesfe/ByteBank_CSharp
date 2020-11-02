@@ -29,6 +29,14 @@ namespace ByteBank
 
             Console.WriteLine(roberta.GetBonificacao());
 
+            Desenvolvedor felipe = new Desenvolvedor();
+
+            felipe.Nome = "Felipe";
+            felipe.CPF = "45401384807";
+            felipe.Salario = 8000;
+
+            Console.WriteLine(felipe.GetBonificacao());
+
 
             Console.ReadLine();
         }
