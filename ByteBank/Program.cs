@@ -22,16 +22,16 @@ namespace ByteBank
         {
             GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
-            Designer pedro = new Designer("45401384807");
+            Funcionario pedro = new Designer("45401384807");
             pedro.Nome = "Pedro";
 
-            Diretor roberta = new Diretor("45401384807");
+            Funcionario roberta = new Diretor("45401384807");
             roberta.Nome = "Roberta";
 
-            Auxiliar igor = new Auxiliar("45401384807");
+            Funcionario igor = new Auxiliar("45401384807");
             igor.Nome = "Igor";
 
-            GerenteDeConta camila = new GerenteDeConta("45401384807");
+            Funcionario camila = new GerenteDeConta("45401384807");
             camila.Nome = "Camila";
 
             
