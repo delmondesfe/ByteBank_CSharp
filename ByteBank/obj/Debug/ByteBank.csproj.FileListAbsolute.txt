@@ -19,3 +19,10 @@ C:\Users\Felipe Delmondes\Source\Repos\ByteBank2\ByteBank\obj\Debug\ByteBank.csp
 C:\Users\Felipe Delmondes\Source\Repos\ByteBank2\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\Felipe Delmondes\Source\Repos\ByteBank2\ByteBank\obj\Debug\ByteBank.exe
 C:\Users\Felipe Delmondes\Source\Repos\ByteBank2\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Felipe Delmondes\Documents\ByteBank_Azure\ByteBank\obj\Debug\ByteBank.pdb
