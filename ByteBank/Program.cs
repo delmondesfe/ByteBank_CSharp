@@ -14,7 +14,6 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-
             UsarSistema();
 
             //CalcularBonificacao();
@@ -62,8 +61,6 @@ namespace ByteBank
             felipe.Nome = "Felipe";
 
             
-
-
             gerenciadorBonificacao.Registrar(pedro);
             gerenciadorBonificacao.Registrar(roberta);
             gerenciadorBonificacao.Registrar(igor);
@@ -71,7 +68,6 @@ namespace ByteBank
             gerenciadorBonificacao.Registrar(felipe);
 
             Console.WriteLine("Total de bonificações "+ gerenciadorBonificacao.GetTotalBonificacao());
-
 
         }
 
